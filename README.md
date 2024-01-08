@@ -5,8 +5,4 @@
 
 
 Mercury App
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nawar-mh/MHWSN/main?labpath=Mercury_Web_App_HWSN.ipynb)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/nawar-mh/MHWSN/main?labpath=Mercury_Web_App_HWSN.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nawar-mh/MHWSN/main?labpath=HWSN_WEB_MERCURY.ipynb)
